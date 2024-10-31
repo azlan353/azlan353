@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azlan353
+- 👋 Hi, I’m Aamir Waqas
 - 👀 I’m interested in  Python and data science
-- 🌱 I’m currently learning python & SQL ,excel
+- 🌱 I’m currently learning python & SQL ,Excel
 - 💞️ I’m looking to collaborate on Python-based projects and data science challenges
 - 📫  Reach me if you’re interested in discussing Python, data science, or collaborating on coding projects
 - 😄 Pronouns: He/Him
